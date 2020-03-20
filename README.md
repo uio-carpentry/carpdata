@@ -32,15 +32,15 @@ Data about the Carpentry@UiO community comes from different sources. Some if the
 
 ### Data
 
-All **data** in this repository is shared with a [Creative Commons CC0 Public Domain Dedication](https://github.com/uio-carpentry/carpdata/blob/master/LICENSE.txt), that means, we waive copyright interests and dedicate the data to the world-wide public domain. This means you can use the data (even commercially), you can distribute it freely, and you can modify it. In the spirit of good academic practice, we would, however, kindly ask you to cite us as a source when using our data. Look under [Citation](## Citation) for how to do that.
+All **data** in this repository is shared with a [Creative Commons CC0 Public Domain Dedication](https://github.com/uio-carpentry/carpdata/blob/master/LICENSE.txt), that means, we waive copyright interests and dedicate the data to the world-wide public domain. This means you can use the data (even commercially), you can distribute it freely, and you can modify it. In the spirit of good academic practice, we would, however, kindly ask you to cite us as a source when using our data. Look under [Citation](https://github.com/uio-carpentry/carpdata/blob/master/README.md#citation) for how to do that.
 
 ### Software
 
-All **software**, including **code** and **scripts** are licensed under the [Unlicense](https://choosealicense.com/licenses/unlicense/). This means we dedicate the software, code, and scripts to the public domain. You can use the software (even commercially), you can distribute it freely, and you can modify it. In the spirit of good academic practice, we would, however, kindly ask you to cite us as a source when using our data. Look under [Citation](## Citation) for how to do that.
+All **software**, including **code** and **scripts** are licensed under the [Unlicense](https://choosealicense.com/licenses/unlicense/). This means we dedicate the software, code, and scripts to the public domain. You can use the software (even commercially), you can distribute it freely, and you can modify it. In the spirit of good academic practice, we would, however, kindly ask you to cite us as a source when using our data. Look under [Citation](https://github.com/uio-carpentry/carpdata/blob/master/README.md#citation) for how to do that.
 
 ### Non-data and Non-software – Text, Images, etc.
 
-All that is not data or software is licensed under a CC-BY4.0 [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/) license. This means you can use the materials, even commercially, you can distribute them freely, you can modify them, as long as you attribute us. If you make changes (modifications, incl. translations), you must state what you have changed, so that it is clear what has been modified compared to the original. Look under [Citation](## Citation) for how to cite and attribute us.
+All that is not data or software is licensed under a CC-BY4.0 [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/) license. This means you can use the materials, even commercially, you can distribute them freely, you can modify them, as long as you attribute us. If you make changes (modifications, incl. translations), you must state what you have changed, so that it is clear what has been modified compared to the original. Look under [Citation](https://github.com/uio-carpentry/carpdata/blob/master/README.md#citation) for how to cite and attribute us.
 
 ## Citation
 
